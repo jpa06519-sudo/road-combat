@@ -11,7 +11,6 @@ fullscreen = 1
 android.permissions = WAKE_LOCK
 android.api = 33
 android.minapi = 21
-android.ndk = 27.3.13750724
 android.archs = arm64-v8a, armeabi-v7a
 android.accept_sdk_license = True
 android.skip_update = False
